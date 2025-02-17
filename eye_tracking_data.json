@@ -1,0 +1,978 @@
+[
+    {
+        "timestamp": 1739825585.4556596,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825585.5321205,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825585.593992,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825585.6576567,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825585.7129261,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825585.7798812,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.2686622,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.3370667,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.4062183,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.4573138,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.5230637,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.5778582,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.6450155,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.7010455,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.7651167,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.8264399,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.8869126,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825586.9496024,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.0001442,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.06083,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.1492946,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.2124174,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.273739,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.3343682,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.4004378,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.4753559,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.5373724,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.6015854,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.6747441,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.7469435,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.8022852,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.8617802,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.9229684,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825587.9837954,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.0498214,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.1089766,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.1680465,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.2173522,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.2783463,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.3409896,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.4103515,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.467045,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.5297782,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.5931666,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.6513267,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.7100685,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.7702768,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.8357852,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825588.9542623,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.0121615,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.0665503,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.125245,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.1869326,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.248665,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.305047,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.35684,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.4319656,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.4823291,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.6553445,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.7142653,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.7753959,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.8952246,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825589.9474852,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.007323,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.0832977,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.1331205,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.1961966,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.2610931,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.3200579,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.381792,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.4442863,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.5050044,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825590.9852078,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.0353456,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.0995693,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.1663308,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.2147956,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.2768703,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.3424542,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.4024959,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.4743984,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.531213,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.5914497,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.6580188,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.7119775,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.7736933,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.8357553,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.9110441,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825591.9743383,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.0363708,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.1020172,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.1822448,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.258963,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.3153477,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.3802261,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.4336562,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825592.4994025,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.574579,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.636494,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.6968772,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.7575524,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.8263235,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.8861573,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825592.944015,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.0256922,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.088925,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.14534,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.204398,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.2663665,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.327876,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.3908389,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.4519954,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.5134149,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.5728154,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.6358836,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.7008119,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.759046,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.8189988,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.881803,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825593.943556,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.0061483,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.0686483,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825594.1953087,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.2634287,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.3143644,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.3752725,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.4370875,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.5209293,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.5723102,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.6382062,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.7000527,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.763153,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.8279448,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825594.9038122,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825594.967748,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.027537,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.0894797,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.1620193,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.219271,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.276042,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.337146,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.4082246,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.4632776,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.5265424,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825595.5849667,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.6388953,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.708576,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.7697024,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.839769,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.9007847,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825595.9567769,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.0167305,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825596.0802538,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.1432407,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.2027113,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.2651973,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.327034,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.3881028,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.447545,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825596.506142,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825596.5694337,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.6350687,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.6948802,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.7557912,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.8169448,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825596.8792222,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825596.93733,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825597.0000837,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825597.0620432,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.1277056,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.184982,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.2450886,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.3091502,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.37673,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.4383736,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825597.4942849,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825597.5622606,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825597.6204975,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.6776261,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.7471778,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.7999632,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.869696,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.929159,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825597.986831,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825598.0485454,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.1138752,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.175882,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.233439,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.2940643,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.3565774,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.4178486,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.4784544,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.537761,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825598.6088064,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.6651154,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.744262,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.8030689,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.8635063,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.9260585,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825598.9952729,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.0476708,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.120938,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.186478,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.2481647,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.3112736,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.3724911,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.4348867,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.4959495,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.5593314,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825599.622752,
+        "eye_state": "closed"
+    },
+    {
+        "timestamp": 1739825599.6831493,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.744907,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.8069406,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.8691828,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.9355233,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825599.9981036,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.0577233,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.1158953,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.1783261,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.2394161,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.3808255,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.4705641,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.5295787,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.6026254,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.6649272,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.7252405,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.7773125,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.8411748,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.9016635,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825600.9758263,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.0421038,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.1266062,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.2100904,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.272946,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.3347194,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.3976579,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.4504602,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.5190797,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.5800462,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.6400774,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.7061973,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.7645743,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.8295155,
+        "eye_state": "open"
+    },
+    {
+        "timestamp": 1739825601.8963203,
+        "eye_state": "open"
+    }
+]
